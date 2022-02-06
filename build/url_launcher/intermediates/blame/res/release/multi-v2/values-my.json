@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Projetos do Ygor\\FlutterProjects\\hamburgueria\\build\\url_launcher\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-my\\values-my.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ygorg\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\47166210819c9f7a0612629aa74cd9bf\\res\\values-my\\values-my.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Projetos do Ygor\\FlutterProjects\\hamburgueria\\build\\url_launcher\\intermediates\\res\\merged\\release\\values-my\\values-my.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ygorg\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\47166210819c9f7a0612629aa74cd9bf\\res\\values-my\\values-my.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Projetos do Ygor\\FlutterProjects\\hamburgueria\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ygorg\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\47166210819c9f7a0612629aa74cd9bf\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Projetos do Ygor\\FlutterProjects\\hamburgueria\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ygorg\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\47166210819c9f7a0612629aa74cd9bf\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Projetos do Ygor\\FlutterProjects\\hamburgueria\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\ygorg\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\47166210819c9f7a0612629aa74cd9bf\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Projetos do Ygor\\FlutterProjects\\hamburgueria\\build\\cloud_firestore\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\ygorg\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\47166210819c9f7a0612629aa74cd9bf\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

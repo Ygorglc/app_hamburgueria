@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Projetos do Ygor\\FlutterProjects\\hamburgueria\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\ygorg\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\47166210819c9f7a0612629aa74cd9bf\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Projetos do Ygor\\FlutterProjects\\hamburgueria\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\ygorg\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\47166210819c9f7a0612629aa74cd9bf\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Projetos do Ygor\\FlutterProjects\\hamburgueria\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\ygorg\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\47166210819c9f7a0612629aa74cd9bf\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Projetos do Ygor\\FlutterProjects\\hamburgueria\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\ygorg\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\47166210819c9f7a0612629aa74cd9bf\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Projetos do Ygor\\FlutterProjects\\hamburgueria\\build\\firebase_core\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\ygorg\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\47166210819c9f7a0612629aa74cd9bf\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    }
+]
