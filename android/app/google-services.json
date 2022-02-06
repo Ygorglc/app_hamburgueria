@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "339680811893",
+    "firebase_url": "https://hambugueria-ad25a.firebaseio.com",
+    "project_id": "hambugueria-ad25a",
+    "storage_bucket": "hambugueria-ad25a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339680811893:android:3fa57d9d35636c274ed13c",
+        "android_client_info": {
+          "package_name": "com.example.hamburgueria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339680811893-eq51aho127jsq4h439jv72qbbktmp4eq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDChDV1ROo_cGDVweN4mWipE3ORaeS2I8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339680811893-eq51aho127jsq4h439jv72qbbktmp4eq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
